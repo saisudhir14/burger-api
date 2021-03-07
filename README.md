@@ -1,7 +1,9 @@
 # burger-api
 Get details of your Burger using an API!
 
-1.Create the DataBase -> db.json file with somedata 
+# create your own mock API!
+
+1. Create the DataBase -> db.json file with somedata 
 2. Add DB
 3. Install json-server (globally in case if you would like to :)
 npm install -g json-server
