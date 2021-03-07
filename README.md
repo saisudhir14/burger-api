@@ -31,4 +31,7 @@ json-server --watch db.json  , and hit enter!
 
   Deploy the same in any online deployment platform so that it can be used and accessed by anyone!
 
-  
+  ---
+
+  I'm using Heroku! you're free to use any tool  :)
+
