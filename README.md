@@ -50,6 +50,38 @@ json-server --watch db.json  , and hit enter!
   add git ignore
   
   ---
+
+  install heroku
+
+  ---
+Run this command npm install -g heroku to check if Heroku is installed properly on your device. 
+Check Heroku version by typing this command heroku --version
+
+---
+
+Now create a Heroku project by typing this command in your current project working directory
+heroku create my-burger-api
+
+You'll be asked to signin, a page will be redirected to you over the browser to sigin in case if you've not signed in earlier using the CLI.
+
+Or you can simply login using this command heroku login
+---
+
+Two links will now be shown in the termincal such as " your-project-link.herokuapp.com " , "git.heroku.com/your-project-name"
+
+---
+
+Push the current project to heroku using git push heroku main
+
+---
+
+To open the same use this command in the terminal heroku open! 
+Boom!!!
+
+---
+
+Mine is available here https://a-burger-api.herokuapp.com/ 
+
   
 
 
