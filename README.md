@@ -35,3 +35,15 @@ json-server --watch db.json  , and hit enter!
 
   I'm using Heroku! you're free to use any tool  :)
 
+  ---
+
+  Up your current project again using this command npm init
+
+  add all details if required or you can just leave the details as default, a package.json file will now be added to the working repository with all the details entered
+
+  ---
+
+  Check if your package is up by running npm i in your current project directory working terminal , and start your json server again by typing this command npm i json-server
+
+
+
