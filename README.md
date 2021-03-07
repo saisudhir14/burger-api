@@ -44,6 +44,13 @@ json-server --watch db.json  , and hit enter!
   ---
 
   Check if your package is up by running npm i in your current project directory working terminal , and start your json server again by typing this command npm i json-server
+  
+  ---
+  
+  add git ignore
+  
+  ---
+  
 
 
 
