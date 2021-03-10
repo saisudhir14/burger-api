@@ -40,6 +40,7 @@ json-server --watch db.json  , and hit enter!
   ---
 
   Up your current project again using this command npm init
+  - Incase you're too lazy dev, use npm init -y (npm will not ask any questions for you, it will just generate the package.json file for you! :)
 
   add all details if required or you can just leave the details as default, a package.json file will now be added to the working repository with all the details entered
 
@@ -82,7 +83,7 @@ Boom!!!
 
 ---
 
-Mine is available here https://a-burger-api.herokuapp.com/ 
+Mine is available here at :  https://a-burger-api.herokuapp.com/ 
 
   
 
