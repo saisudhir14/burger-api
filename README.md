@@ -3,7 +3,7 @@ Get details of your Burger using an API!
 
 ---
 
-### Create your own mock API!
+### 📋Create your own mock API! 📝
 
 1. Create the DataBase -> db.json file with somedata 
 2. Add DB
@@ -79,4 +79,4 @@ Boom!!! 🚀 🚀
 
 ---
 
-➡️ Here's mine, feel free to check/play with this :  https://a-burger-api.herokuapp.com/ 
+📌 Here's mine, feel free to check/play with this :  https://a-burger-api.herokuapp.com/ 
